@@ -3,7 +3,7 @@ output: .retype
 url: https://pachimari21.github.io/GGangGGall-Wiki
 
 branding:
-  logo: docs/GGlogo.png
+  logo: /docs/GGlogo.png
   title: 깡갤 대피소 위키
 
 links:
