@@ -5,6 +5,10 @@ url: https://pachimari21.github.io/GGangGGall-Wiki
 branding:
   logo: GGlogo.png
   title: 깡갤 대피소 위키
+  colors:
+    label:
+      text: "#ffffff"
+      background: "#ff0000"
 
 links:
 - text: 깡갤 대피소 미니 갤러리
@@ -17,4 +21,4 @@ navigation:
       - Installation: guide/install.md
 
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }}. All rights reserved. | Made in 깡갤 대피소 "
