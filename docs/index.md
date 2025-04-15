@@ -9,4 +9,4 @@ icon: home
 
 ## 위키 페이지 서식
 
-자세한 가이드는 [페이지 서식 작성](getting-started.md) 섹션을 확인
+자세한 가이드는 [페이지 서식 작성](.위키/getting-started.md) 섹션을 확인
