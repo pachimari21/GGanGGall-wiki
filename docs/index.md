@@ -1,5 +1,5 @@
 ---
-title: 메인
+title: 깡갤 대피소 위키
 icon: home
 ---
 
