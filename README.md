@@ -1,2 +1,3 @@
-# GGanGGall-wiki
-AI 채팅 커뮤니티 이용 위키
+# My Retype Docs
+
+This is a documentation site powered by [Retype](https://retype.com).
