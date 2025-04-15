@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: https://pachimari21.github.io/GGangGGall-Wiki
+branding:
+  logo: GGlogo.png
+  title: 깡갤 대피소 위키
+links:
+- text: 깡갤 대피소 미니 갤러리
+  icon: clobe
+  link: https://gall.dcinside.com/mini/board/lists/?id=tincans
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
