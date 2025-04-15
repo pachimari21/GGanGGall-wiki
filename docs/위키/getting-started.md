@@ -1,5 +1,6 @@
 ---
-icon: book
+title: 페이지 서식 작성
+icon: markdown
 ---
 
 # 페이지 서식 작성
