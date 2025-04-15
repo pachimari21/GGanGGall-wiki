@@ -1,12 +1,19 @@
-name: Publish new Release
+name: Retype Build and Deploy
+
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+
 jobs:
-  publish:
-    name: Sync tags with latest Retype release
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Update and Release
-        shell: bash
-        run: .github/workflows/refresh-release.sh --github-token="${{ secrets.GITHUB_TOKEN }}"
+      - uses: actions/checkout@v4
+
+      - uses: retypeapp/action-build@latest
+
+      - uses: retypeapp/action-github-pages@latest
+        with:
+          branch: gh-pages
+          update-branch: true
