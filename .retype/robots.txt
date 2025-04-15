@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pachimari21.github.io/GGangGGall-Wiki/sitemap.xml.gz

@@ -1,6 +1,5 @@
 ---
 title: Welcome
-icon: house
 ---
 
 # 👋 Welcome to My Wiki
